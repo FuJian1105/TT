@@ -12,6 +12,8 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharmaaa')
+
+print("tt-dev")
 # 测试dev拉取
 print("dev")
 
